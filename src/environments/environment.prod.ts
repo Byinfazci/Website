@@ -4,7 +4,7 @@ export const environment = {
   rootEndpoint: 'https://lexon.herokuapp.com/',
   discordInvite: 'https://discord.gg/uDTgxyg',
   docsURL: 'https://lexon.herokuapp.com/',
-  githubURL: '',
+  githubURL: 'https://github.com/Byinfazci/Website',
   version: 'v1.0.3b',
   url: 'https://lexon.herokuapp.com/',
   guildId: '236608364333891585'
