@@ -4,13 +4,13 @@
 
 export const environment = {
   production: false,
-  rootEndpoint: 'http://localhost:3000',
-  endpoint: 'http://localhost:3000/api/v1',
-  discordInvite: 'https://discord.gg/uDTgxyg',
-  docsURL: 'https://docs.dbots.co',
-  githubURL: 'https://github.com/DBots-co',
+  rootEndpoint: 'https://lexon.herokuapp.com/',
+  endpoint: 'https://lexon.herokuapp.com/api/v1',
+  discordInvite: 'https://discord.gg/Acm8eUyXaK',
+  docsURL: 'https://lexon.herokuapp.com/',
+  githubURL: '',
   version: 'v1.0.3b',
-  url: 'http://localhost:3000',
+  url: 'https://lexon.herokuapp.com/',
   guildId: '531196495584821314'
 };
 
