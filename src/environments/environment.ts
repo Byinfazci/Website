@@ -8,7 +8,7 @@ export const environment = {
   endpoint: 'https://lexon.herokuapp.com/api/v1',
   discordInvite: 'https://discord.gg/Acm8eUyXaK',
   docsURL: 'https://lexon.herokuapp.com/',
-  githubURL: '',
+  githubURL: 'https://github.com/Byinfazci/Website',
   version: 'v1.0.3b',
   url: 'https://lexon.herokuapp.com/',
   guildId: '531196495584821314'
